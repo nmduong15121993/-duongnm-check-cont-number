@@ -1,0 +1,24 @@
+{
+  "name": "check-cont-number",
+  "version": "1.0.1",
+  "description": "Check format of cont number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmduong15121993/-duongnm-check-cont-number.git"
+  },
+  "keywords": [
+    "cont",
+    "cont-number",
+    "check-cont-number"
+  ],
+  "author": "duongnm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmduong15121993/-duongnm-check-cont-number/issues"
+  },
+  "homepage": "https://github.com/nmduong15121993/-duongnm-check-cont-number#readme"
+}
